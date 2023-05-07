@@ -1,4 +1,4 @@
-# Basic-Financial-Analysis
+# Financial-Indicators-volatility-OLS-moving-windows-Maximum-Drawdown-Compound-Annual-Growth-Rate
 
 - Stocks & Trading
 
